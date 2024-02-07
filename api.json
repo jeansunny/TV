@@ -39,6 +39,15 @@
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     },
+        {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
     {
       "key": "云盘登录",
       "name": "云盘登录",
