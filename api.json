@@ -40,6 +40,15 @@
       "ext": "./XYQHiker/高清MP4.json"
     },
     {
+      "key": "迅雷吧",
+      "name": "磁力｜迅雷吧",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "AliPS",
       "name": "云盘｜盘搜",
       "type": 3,
@@ -48,25 +57,6 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-    {
-      "key": "夸克盘搜弹幕",
-      "name": "夸克｜盘搜",
-      "type": 3,
-      "api": "csp_Qkpanso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "迅雷吧",
-      "name": "磁力｜迅雷吧",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "云盘登录",
@@ -197,39 +187,11 @@
     }
   ],
   "flags": [
-    "youku",
-    "优酷",
-    "优 酷",
     "优酷视频",
-    "qq",
-    "腾讯",
-    "腾 讯",
     "腾讯视频",
-    "iqiyi",
-    "qiyi",
-    "奇艺",
     "爱奇艺",
-    "爱 奇 艺",
-    "m1905",
-    "xigua",
-    "letv",
-    "leshi",
-    "乐视",
-    "乐 视",
-    "sohu",
-    "搜狐",
-    "搜 狐",
     "搜狐视频",
-    "tudou",
-    "pptv",
-    "mgtv",
-    "芒果",
-    "imgo",
-    "芒果TV",
-    "芒 果 T V",
-    "bilibili",
-    "哔 哩",
-    "哔 哩 哔 哩"
+    "芒果TV"
   ],
   "ijk": [
     {
