@@ -1,44 +1,6 @@
 {
   "sites": [
     {
-      "key": "在线影院",
-      "name": "影院",
-      "type": 3,
-      "api": "./JS/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./JS/五五五.js"
-    },
-    {
-      "key": "豆瓣",
-      "name": "热门",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "Mp4电影",
-      "name": "Mp4电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "BT天堂",
-      "name": "BT天堂",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/BT天堂.json"
-    },
-    {
       "key": "迅雷吧",
       "name": "迅雷",
       "type": 3,
@@ -56,6 +18,34 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com"
+    },
+    {
+      "key": "BT天堂",
+      "name": "BT天堂",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/BT天堂.json"
+    },
+    {
+      "key": "Mp4电影",
+      "name": "Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "豆瓣",
+      "name": "热门",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
     }
   ],
   "lives": [
