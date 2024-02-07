@@ -2,13 +2,50 @@
   "sites": [
     {
       "key": "在线影院",
-      "name": "在线影院",
+      "name": "影院",
       "type": 3,
       "api": "./JS/drpy.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
       "ext": "./JS/五五五.js"
+    },
+    {
+      "key": "豆瓣",
+      "name": "热门",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "Mp4电影",
+      "name": "Mp4电影",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "BT天堂",
+      "name": "BT天堂",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./XYQHiker/BT天堂.json"
+    },
+    {
+      "key": "迅雷吧",
+      "name": "迅雷",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "New6v",
@@ -19,82 +56,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.xb6v.com"
-    },
-    {
-      "key": "迅雷吧",
-      "name": "迅雷吧",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "AliPS",
-      "name": "盘搜",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
-    },
-        {
-      "key": "豆瓣",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-      {
-      "key": "阿里合集",
-      "name": "阿里｜合集",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "Mp4电影",
-      "name": "磁力｜Mp4电影",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "BT天堂",
-      "name": "磁力｜BT天堂",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./XYQHiker/BT天堂.json"
-    },
-        {
-      "key": "配置中心",
-      "name": "云盘配置",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "云盘登录",
-      "name": "云盘登录",
-      "type": 3,
-      "api": "csp_AliYunPan",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/token.txt"
     }
   ],
   "lives": [
