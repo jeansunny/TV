@@ -20,6 +20,15 @@
       "ext": "https://www.xb6v.com"
     },
     {
+      "key": "豆瓣",
+      "name": "热门",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "BT天堂",
       "name": "BT天堂",
       "type": 3,
@@ -37,15 +46,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "豆瓣",
-      "name": "热门",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
     }
   ],
   "lives": [
