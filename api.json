@@ -1,33 +1,8 @@
 {
   "sites": [
-    {
-      "key": "迅雷吧",
-      "name": "迅雷",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "New6v",
-      "name": "磁力",
-      "type": 3,
-      "api": "csp_New6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.xb6v.com"
-    },
-    {
-      "key": "豆瓣",
-      "name": "热门",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+{"key":"豆瓣","name":"新年快乐","type":3,"api":"csp_Douban","searchable":0},
+{"key":"两个磁力","name":"两个磁力","type":3,"api":"./JS/drpy.min.js","ext":"./JS/两个磁力.js"},
+
     {
       "key": "BT天堂",
       "name": "BT天堂",
