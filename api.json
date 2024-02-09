@@ -1,6 +1,5 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;549ad3dd30f6ef766d126386f59f48aa",
 "wallpaper":"https://api.likepoems.com/img/bing",
-{
   "sites": [
 {"key":"豆瓣","name":"在线影院","type":3,"api":"csp_Douban","searchable":0},
 {"key":"New6v","name":"New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
