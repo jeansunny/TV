@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"豆瓣","name":"新年快乐","type":3,"api":"csp_Douban","searchable":0},
+{"key":"豆瓣","name":"在线影院","type":3,"api":"csp_Douban","searchable":0},
 {"key":"New6v","name":"磁力｜New6V","type":3,"api":"csp_New6v","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.xb6v.com"},
 
     {
