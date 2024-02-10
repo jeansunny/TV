@@ -1,6 +1,6 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;549ad3dd30f6ef766d126386f59f48aa",
 "wallpaper":"https://api.likepoems.com/img/bing",
-"lives":[{"name":"初秋语","type":0,"url":"./listx.txt"}],
+"lives":[{"name":"直播","type":0,"url":"./live.txt"}],
 "sites":
 	[{"key":"豆瓣","name":"影院","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"影视五","name":"影院II","type":3,"api":"csp_Movie2","searchable":1,"quickSearch":1,"filterable":1,"ext":"./EXT/Movie5"},
