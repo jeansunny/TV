@@ -1,5 +1,5 @@
 {"spider":"https://jihulab.com/Pizazz/tvbox/-/raw/main/spider.jar;md5;549ad3dd30f6ef766d126386f59f48aa",
-"wallpaper":"https://api.likepoems.com/img/bing",
+"wallpaper":"https://raw.githubusercontent.com/jeansunny/18/master/2.jpg",
 "lives":[
 	{"name":"直播","type":0,"url":"./live.txt"}],
 "sites":
